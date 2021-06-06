@@ -3,8 +3,8 @@ This repository containing portfolio of data science projects completed by me fo
 
 
 ## Contents
-### <li>Machine Learning</li>
-1. Predicting household poverty in Latin America
+* **Machine Learning**
+  1. Predicting household poverty in Latin America: Latin America.ipynb https://github.com/Doddabasu124/Doddbasu124/blob/main/Latin%20America.ipynb
 
 
 Tools: scikit-learn, Pandas, Seaborn, Matplotlib
