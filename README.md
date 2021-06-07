@@ -4,7 +4,7 @@ This repository containing portfolio of data science projects completed by me fo
 
 ## Contents
 * **Machine Learning**
-  1. [Predicting household poverty in Latin America](https://github.com/Doddabasu124/Doddbasu124/blob/main/Latin%20America.ipynb):
+  1. [Predicting household poverty in Latin America](https://github.com/Doddabasu124/Doddbasu124/blob/main/Income%20qualification/Latin%20America.ipynb):
      * Exploratory data Analysis of the datasets using Pandas and Seaborn visualisations.
      * Utilized python to implement supervised machine learning techniques to identify the level of income qualification needed for the families in Latin America.
      * Performed Data preprocessing, feature selection to train Random Forest classifier and Random search CV models and achieved the accuracy of 95%.
