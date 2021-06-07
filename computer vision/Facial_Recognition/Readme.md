@@ -27,9 +27,9 @@ Steps to be followed:
 4. Transform the images to equal sizes to feed in CNN
 5. Build a CNN model that has 3 main layers:
 
-i. Convolutional Layer
-ii. Pooling Layer
-iii. Fully Connected Layer
+  i. Convolutional Layer
+  ii. Pooling Layer
+  iii. Fully Connected Layer
 
 6. Train the model
 7. Plot the result
