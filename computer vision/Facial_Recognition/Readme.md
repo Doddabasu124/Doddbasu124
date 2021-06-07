@@ -26,10 +26,9 @@ Steps to be followed:
 3. Split the dataset
 4. Transform the images to equal sizes to feed in CNN
 5. Build a CNN model that has 3 main layers:
- 1. Convolutional Layer
- 2. Pooling Layer
- 3. Fully Connected Layer
-
+   * Convolutional Layer
+   * Pooling Layer
+   * Fully Connected Layer
 6. Train the model
 7. Plot the result
 8. Iterate the model until the accuracy is above 90%
