@@ -26,21 +26,9 @@ Steps to be followed:
 3. Split the dataset
 4. Transform the images to equal sizes to feed in CNN
 5. Build a CNN model that has 3 main layers:
-   ### Prerequisites:
-Keras
-Scikit Learn
-Steps to be followed:
-1. Input the required libraries
-2. Load the dataset after loading the dataset, you have to normalize every image.
-3. Split the dataset
-4. Transform the images to equal sizes to feed in CNN
-5. Build a CNN model that has 3 main layers:
  1. Convolutional Layer
  2. Pooling Layer
  3. Fully Connected Layer
-6. Train the model
-7. Plot the result
-8. Iterate the model until the accuracy is above 90%
 
 6. Train the model
 7. Plot the result
