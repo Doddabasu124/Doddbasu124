@@ -22,7 +22,7 @@ The model consist of Multi layer perceptron with 3 layers of nodes. The hidden l
    *  Specificity : [1.00 1.00 0.94]
    *  Precision :   [1.00 1.00 0.91]
    *  Recall :      [1.00 0.87 1.00]
-   *  FScore :      [1.00 0.93 0.95]
+   *  FScore :      [1.00 0.933 0.95]
    *  Accuarcy: 96.66
 
 2. For Fold 2:
