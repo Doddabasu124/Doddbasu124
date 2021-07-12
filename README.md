@@ -25,13 +25,16 @@ This repository containing portfolio of data science projects completed by me fo
   
  
 * **Deep Learning**:
-  1. [Facial Recognition](https://github.com/Doddabasu124/Doddbasu124/tree/main/Deep%20Learning/Facial%20Recognition):
-     * Designed Convolutional Neural Net(CNN) model to identify different face.                               
-     * Performed Data Augmentation to train CNN model and achieved the accuracy 95%.
+   1. [Multilayer perceptron](https://github.com/Doddabasu124/Doddbasu124/tree/main/MLP):
+      * Building comprehensible neural network(multilayer perceptron) using Python libraries and successfully train it to classify the type of Iris plant using Iris            dataset. 
+  
+   2. [Facial Recognition](https://github.com/Doddabasu124/Doddbasu124/tree/main/Deep%20Learning/Facial%20Recognition):
+      * Designed Convolutional Neural Net(CNN) model to identify different face.                               
+      * Performed Data Augmentation to train CNN model and achieved the accuracy 95%.
 
-   2. [Diabetic Retinopathy Detection](https://github.com/Doddabasu124/Doddbasu124/tree/main/Deep%20Learning/Diabetic%20Retinopathy%20Detection):
-      * Developed Neural network model to classify retinopathy level for given eye image.                                                                                         
-      *	Performed Image Augmentation to prevent the overfitting.
-      *	Used Transferred Learning to train neural network on 1500 images to classify Diabetic retinopathy level.
+   3. [Diabetic Retinopathy Detection](https://github.com/Doddabasu124/Doddbasu124/tree/main/Deep%20Learning/Diabetic%20Retinopathy%20Detection):
+      * Developed Neural network model to classify retinopathy level for given eye image.                                                                              
+      * Performed Image Augmentation to prevent the overfitting.
+      * Used Transferred Learning to train neural network on 1500 images to classify Diabetic retinopathy level.
 
    *Tools*: Numpy, Pandas, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Keras
