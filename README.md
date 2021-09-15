@@ -23,7 +23,7 @@ This repository containing portfolio of data science projects completed by me fo
 
   2. [Sentiment Analysis of IMDB Movie Reviews](https://github.com/Doddabasu124/Doddbasu124/blob/main/Deep%20Learning/Sentiment%20Analysis/CNN_Autoencoder.ipynb)
       * Created 1D Convolutional Neural Network Model to predict 0(Negative) or 1(Positive) for a given user review.
-      * Applied **Sparse Autoencoder technique** to learn redundant features for given dataset
+      * Applied **Sparse Autoencoder technique** to learn redundant features for given dataset.
      
    *Tools*: NLTK, Keras
   
