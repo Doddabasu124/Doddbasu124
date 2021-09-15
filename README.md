@@ -9,7 +9,7 @@ This repository containing portfolio of data science projects completed by me fo
      * Utilized python to implement supervised machine learning techniques to identify the level of income qualification needed for the families in Latin America.
      * Performed Data preprocessing, feature selection to train Random Forest classifier and Random search CV models and achieved the accuracy of 96%.
   
-  2. [Mercedes-Benz Greener Manufacturing](https://github.com/Doddabasu124/Doddbasu124/tree/main/Machine%20Learning/Mercedes-Benz%20Greener%20Manufacturing):
+  2. [Mercedes-Benz Greener Manufacturing](https://github.com/Doddabasu124/Doddbasu124/blob/main/NLP/Sentiment%20Analysis/CNN_Autoencoder.ipynb):
      * Created a model which reduce the time of a Mercedes-Benz spends on the test bench.
      * Improved accuracy of model by performing Stacked Regressor by combining the linear regression, Random Forest regressor & XGBoost regression models.
      
