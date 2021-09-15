@@ -32,6 +32,11 @@ This repository containing portfolio of data science projects completed by me fo
       * Designed Convolutional Neural Net(CNN) model to identify different face.                               
       * Performed Data Augmentation to train CNN model and achieved the accuracy 95%.
 
+   3. Sentiment Analysis of IMDB Movie Reviews
+      * Created 1D Convolutional Neural Network Model to predict 0(Negative) or 1(Positive) for a given user review.
+      * •	Applied **Sparse Autoencoder technique** to learn redundant features for given dataset
+                                                                                                  
+
    3. [Diabetic Retinopathy Detection](https://github.com/Doddabasu124/Doddbasu124/tree/main/Deep%20Learning/Diabetic%20Retinopathy%20Detection):
       * Developed Neural network model to classify retinopathy level for given eye image.                                                                              
       * Performed Image Augmentation to prevent the overfitting.
