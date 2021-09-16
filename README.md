@@ -21,7 +21,7 @@ This repository containing portfolio of data science projects completed by me fo
      * Built a Retrieval based customer support chatbot to guide the audience and answer any queries related to Healthcare.                               
      * Performed Text Preprocessing, Bag-of-words to train the Neural network.
 
-  2. [Sentiment Analysis of IMDB Movie Reviews](https://github.com/Doddabasu124/Doddbasu124/blob/main/Deep%20Learning/Sentiment%20Analysis/CNN_Autoencoder.ipynb)
+  2. [Sentiment Analysis of IMDB Movie Reviews](https://github.com/Doddabasu124/Doddbasu124/blob/main/NLP/Sentiment%20Analysis/CNN_Autoencoder.ipynb)
       * Created 1D Convolutional Neural Network Model to predict 0(Negative) or 1(Positive) for a given user review.
       * Applied **Sparse Autoencoder technique** to learn redundant features for given dataset.
      
