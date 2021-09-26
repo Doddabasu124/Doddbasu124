@@ -26,6 +26,8 @@ This repository containing portfolio of data science projects completed by me fo
       * Applied **Sparse Autoencoder technique** to learn redundant features for given dataset.
   
   3. [Text Genaration using Natural Language Modeling](https://github.com/Doddabasu124/Doddbasu124/blob/main/NLP/Text_Generation/NLP_next_word_generation_pytorch.ipynb):
+      * Developed LSTM neural network model to predict next word for a given sentance.
+      * Performed Text preprocessing techniques to train LSTM neural network by using Pytorch framework.
      
    *Tools*: NLTK, Keras, PyTorch
   
