@@ -20,12 +20,8 @@ This repository containing portfolio of data science projects completed by me fo
   1. [Chatbot](https://github.com/Doddabasu124/Doddbasu124/tree/main/NLP/Chatbot):
      * Built a Retrieval based customer support chatbot to guide the audience and answer any queries related to Healthcare.                               
      * Performed Text Preprocessing, Bag-of-words to train the Neural network.
-
-  2. [Sentiment Analysis of IMDB Movie Reviews](https://github.com/Doddabasu124/Doddbasu124/blob/main/NLP/Sentiment%20Analysis/CNN_Autoencoder.ipynb):
-      * Created 1D Convolutional Neural Network Model to predict 0(Negative) or 1(Positive) for a given user review.
-      * Applied **Sparse Autoencoder technique** to learn redundant features for given dataset.
   
-  3. [Text Genaration using Natural Language Modeling](https://github.com/Doddabasu124/Doddbasu124/blob/main/NLP/Text_Generation/NLP_next_word_generation_pytorch.ipynb):
+  2. [Text Genaration using Natural Language Modeling](https://github.com/Doddabasu124/Doddbasu124/blob/main/NLP/Text_Generation/NLP_next_word_generation_pytorch.ipynb):
       * Developed LSTM neural network model to predict next word for a given sentance.
       * Performed Text preprocessing techniques to train LSTM neural network by using Pytorch framework.
      
